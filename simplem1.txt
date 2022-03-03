@@ -1,2 +1,3 @@
 This is sample merge1 file
 this is second line
+this is third line m3
